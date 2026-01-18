@@ -24,6 +24,15 @@
         ],
         "categories": [
             "decompilation"
+        ],
+        "keywords": [
+            "hexrays",
+            "decompilation",
+            "pseudocode",
+            "signed",
+            "comparisons",
+            "analysis",
+            "visualization"
         ]
     }
 }
