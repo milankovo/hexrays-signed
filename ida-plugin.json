@@ -1,0 +1,29 @@
+{
+    "IDAMetadataDescriptorVersion": 1,
+    "plugin": {
+        "name": "hexrays-signed",
+        "version": "1.0.0",
+        "entryPoint": "hexrays_signed.py",
+        "description": "Highlights signed comparisons in the Pseudocode-View",
+        "license": "MIT",
+        "urls": {
+            "repository": "https://github.com/milankovo/hexrays-signed"
+        },
+        "authors": [
+            {
+                "name": "Milankovo",
+                "email": "hexrays-signed@noreply.github.com"
+            }
+        ],
+        "idaVersions": ">=9.0",
+        "platforms": [
+            "windows-x86_64",
+            "linux-x86_64",
+            "macos-x86_64",
+            "macos-aarch64"
+        ],
+        "categories": [
+            "decompilation"
+        ]
+    }
+}
